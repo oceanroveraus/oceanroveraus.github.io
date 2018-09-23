@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://syui.github.io/hugo-theme-air/post/my-post-003/</loc>
+    <lastmod>2018-03-28T00:04:35+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://syui.github.io/hugo-theme-air/post/my-post-002/</loc>
+    <lastmod>2018-03-28T00:04:27+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://syui.github.io/hugo-theme-air/post/my-post-001/</loc>
+    <lastmod>2018-03-28T00:04:24+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://syui.github.io/hugo-theme-air/</loc>
+    <lastmod>2018-03-28T00:04:35+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://syui.github.io/hugo-theme-air/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://syui.github.io/hugo-theme-air/post/</loc>
+    <lastmod>2018-03-28T00:04:35+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://syui.github.io/hugo-theme-air/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
