@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on A.I.&#43;</title>
-    <link>http://syui.github.io/hugo-theme-air/post/</link>
+    <link>https://www.aiplus.ml/post/</link>
     <description>Recent content in Posts on A.I.&#43;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2018</copyright>
     <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +1000</lastBuildDate>
     
-	<atom:link href="http://syui.github.io/hugo-theme-air/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.aiplus.ml/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>forestry post 001</title>
-      <link>http://syui.github.io/hugo-theme-air/post/forestry-post-001/</link>
+      <link>https://www.aiplus.ml/post/forestry-post-001/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +1000</pubDate>
       
-      <guid>http://syui.github.io/hugo-theme-air/post/forestry-post-001/</guid>
+      <guid>https://www.aiplus.ml/post/forestry-post-001/</guid>
       <description>-&amp;ndash;
 Advertisement :)
 - [pica](https://nodeca.github.io/pica/demo/) - high quality and fast image
@@ -42,28 +42,28 @@ Enable typographer option to see result.
     
     <item>
       <title>My Post 003</title>
-      <link>http://syui.github.io/hugo-theme-air/post/my-post-003/</link>
+      <link>https://www.aiplus.ml/post/my-post-003/</link>
       <pubDate>Wed, 28 Mar 2018 00:04:35 +1100</pubDate>
       
-      <guid>http://syui.github.io/hugo-theme-air/post/my-post-003/</guid>
+      <guid>https://www.aiplus.ml/post/my-post-003/</guid>
       <description>Post 003</description>
     </item>
     
     <item>
       <title>My Post 002</title>
-      <link>http://syui.github.io/hugo-theme-air/post/my-post-002/</link>
+      <link>https://www.aiplus.ml/post/my-post-002/</link>
       <pubDate>Wed, 28 Mar 2018 00:04:27 +1100</pubDate>
       
-      <guid>http://syui.github.io/hugo-theme-air/post/my-post-002/</guid>
+      <guid>https://www.aiplus.ml/post/my-post-002/</guid>
       <description>Post 2</description>
     </item>
     
     <item>
       <title>My Post 001</title>
-      <link>http://syui.github.io/hugo-theme-air/post/my-post-001/</link>
+      <link>https://www.aiplus.ml/post/my-post-001/</link>
       <pubDate>Wed, 28 Mar 2018 00:04:24 +1100</pubDate>
       
-      <guid>http://syui.github.io/hugo-theme-air/post/my-post-001/</guid>
+      <guid>https://www.aiplus.ml/post/my-post-001/</guid>
       <description>Post 1</description>
     </item>
     
