@@ -7,38 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2018</copyright>
-    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Mar 2018 00:04:35 +1100</lastBuildDate>
     
 	<atom:link href="https://www.aiplus.ml/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>forestry post 001</title>
-      <link>https://www.aiplus.ml/post/forestry-post-001/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +1000</pubDate>
-      
-      <guid>https://www.aiplus.ml/post/forestry-post-001/</guid>
-      <description>-&amp;ndash;
-Advertisement :)
-- [pica](https://nodeca.github.io/pica/demo/) - high quality and fast image
-resize in browser.
-- [babelfish](https://github.com/nodeca/babelfish/) - developer friendly
-i18n with plurals support and easy syntax.
-You will like those projects!
--&amp;ndash;
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
-## Horizontal Rules
--&amp;ndash;
-***
-## Typographic replacements
-Enable typographer option to see result.
-&amp;copy; &amp;copy; &amp;reg; &amp;reg; &amp;trade; &amp;trade; (p) (P) +-</description>
-    </item>
     
     <item>
       <title>My Post 003</title>
